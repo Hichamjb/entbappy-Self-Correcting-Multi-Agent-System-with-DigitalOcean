@@ -297,7 +297,3 @@ command and that the service listens on `0.0.0.0`.
 - This demo does not provide authentication or per-user rate limiting. Add
 	those controls before exposing it to an untrusted public audience.
 
-## License
-
-This project is distributed under the Apache License 2.0. See [LICENSE](LICENSE)
-for the complete text.
